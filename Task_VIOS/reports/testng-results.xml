@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[step: 1]]>
+    </line>
+    <line>
+      <![CDATA[<div><img src="screenshots/1.png" alt="Faild" width="400px" height="200px" ></div> ]]>
+    </line>
+    <line>
+      <![CDATA[step: 2]]>
+    </line>
+    <line>
+      <![CDATA[<div><img src="screenshots/2.png" alt="Faild" width="400px" height="200px" ></div> ]]>
+    </line>
+    <line>
+      <![CDATA[step: 3]]>
+    </line>
+    <line>
+      <![CDATA[<div><img src="screenshots/3.png" alt="Faild" width="400px" height="200px" ></div> ]]>
+    </line>
+    <line>
+      <![CDATA[step: 4]]>
+    </line>
+    <line>
+      <![CDATA[<div><img src="screenshots/4.png" alt="Faild" width="400px" height="200px" ></div> ]]>
+    </line>
+    <line>
+      <![CDATA[step: 5]]>
+    </line>
+    <line>
+      <![CDATA[<div><img src="screenshots/5.png" alt="Faild" width="400px" height="200px" ></div> ]]>
+    </line>
+    <line>
+      <![CDATA[step: 6]]>
+    </line>
+    <line>
+      <![CDATA[<div><img src="screenshots/6.png" alt="Faild" width="400px" height="200px" ></div> ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-01-07T22:25:44Z" name="Default Suite" finished-at="2022-01-07T22:26:02Z" duration-ms="18335">
+    <groups>
+    </groups>
+    <test started-at="2022-01-07T22:25:44Z" name="Task_VIOS" finished-at="2022-01-07T22:26:02Z" duration-ms="18335">
+      <class name="ResultsPage.ResultsPageTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:ResultsPage.ResultsPageTest@1d7acb34]" started-at="2022-01-07T22:25:44Z" name="setUp" finished-at="2022-01-07T22:25:52Z" duration-ms="8485" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="wait5()[pri:0, instance:ResultsPage.ResultsPageTest@1d7acb34]" started-at="2022-01-07T22:25:52Z" name="wait5" finished-at="2022-01-07T22:25:52Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wait5 -->
+        <test-method signature="searchtest()[pri:0, instance:ResultsPage.ResultsPageTest@1d7acb34]" started-at="2022-01-07T22:25:52Z" name="searchtest" finished-at="2022-01-07T22:26:00Z" duration-ms="8305" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[step: 1]]>
+            </line>
+            <line>
+              <![CDATA[<div><img src="screenshots/1.png" alt="Faild" width="400px" height="200px" ></div> ]]>
+            </line>
+            <line>
+              <![CDATA[step: 2]]>
+            </line>
+            <line>
+              <![CDATA[<div><img src="screenshots/2.png" alt="Faild" width="400px" height="200px" ></div> ]]>
+            </line>
+            <line>
+              <![CDATA[step: 3]]>
+            </line>
+            <line>
+              <![CDATA[<div><img src="screenshots/3.png" alt="Faild" width="400px" height="200px" ></div> ]]>
+            </line>
+            <line>
+              <![CDATA[step: 4]]>
+            </line>
+            <line>
+              <![CDATA[<div><img src="screenshots/4.png" alt="Faild" width="400px" height="200px" ></div> ]]>
+            </line>
+            <line>
+              <![CDATA[step: 5]]>
+            </line>
+            <line>
+              <![CDATA[<div><img src="screenshots/5.png" alt="Faild" width="400px" height="200px" ></div> ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchtest -->
+        <test-method is-config="true" signature="screenshot()[pri:0, instance:ResultsPage.ResultsPageTest@1d7acb34]" started-at="2022-01-07T22:26:00Z" name="screenshot" finished-at="2022-01-07T22:26:01Z" duration-ms="402" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[step: 6]]>
+            </line>
+            <line>
+              <![CDATA[<div><img src="screenshots/6.png" alt="Faild" width="400px" height="200px" ></div> ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ResultsPage.ResultsPageTest@1d7acb34]" started-at="2022-01-07T22:26:01Z" name="tearDown" finished-at="2022-01-07T22:26:02Z" duration-ms="1119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ResultsPage.ResultsPageTest -->
+    </test> <!-- Task_VIOS -->
+  </suite> <!-- Default Suite -->
+</testng-results>
